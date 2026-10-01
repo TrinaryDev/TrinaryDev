@@ -1,6 +1,15 @@
-## Hi there 👋
+## Hello visitors 👋
 
-<!--
+My name is Tri, I'm currently a student at Ho Chi Minh University of Science.
+I'm studying Information Technology - Data Science major.
+
+My focus are on (x)AI, Machine Learning and Data Science operations.
+
+I have experiences in many programming languages and tools, include and not limited to: Python, C++, SQL,... and Jupiter Notebook, Power BI,...
+
+I'm still on my long way to study much more, so any helps would be greatly appreciate!
+
+<!--';b
 **TrinaryDev/TrinaryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
