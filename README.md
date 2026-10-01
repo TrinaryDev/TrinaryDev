@@ -3,11 +3,11 @@
 My name is Tri, I'm currently a student at Ho Chi Minh University of Science.
 I'm studying Information Technology - Data Science major.
 
-My focus are on (x)AI, Machine Learning and Data Science operations.
+My areas of focus are on Explainable AI (XAI), Machine Learning and Data Science operations.
 
-I have experiences in many programming languages and tools, include and not limited to: Python, C++, SQL,... and Jupiter Notebook, Power BI,...
+I have experience in many programming languages and tools, including, but not limited to: Python, C++, SQL and Jupyter Notebook, Power BI.
 
-I'm still on my long way to study much more, so any helps would be greatly appreciate!
+I'm still on my long way to study much more, so any help would be greatly appreciated!
 
 <!--';b
 **TrinaryDev/TrinaryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
