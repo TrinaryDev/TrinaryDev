@@ -3,7 +3,7 @@
 My name is Tri, I'm currently a student at Ho Chi Minh University of Science.
 I'm studying Information Technology - Data Science major.
 
-My areas of focus are on Explainable AI (XAI), Machine Learning and Data Science operations.
+My areas of focus are on Machine Learning and Data Science operations.
 
 I have experience in many programming languages and tools, including, but not limited to: Python, C++, SQL and Jupyter Notebook, Power BI.
 
